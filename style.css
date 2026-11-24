@@ -1,0 +1,11 @@
+body{font:16px/1.6 system-ui,sans-serif;max-width:780px;margin:0 auto;padding:0 22px 60px;color:#1a1a1a;background:#f4f0e8}
+header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 0;border-bottom:2px solid #1a1a1a;margin-bottom:26px;flex-wrap:wrap}
+header .brand{font-weight:800;font-size:20px}
+nav a{margin-left:16px;font-weight:700;color:#1a1a1a}
+nav a.priv{color:#c8553d}
+.yt{height:44px;display:block}
+h1{margin:10px 0 4px}h2{margin-top:28px}
+.muted{color:#6f665a;font-size:14px}
+.box{background:#fff;border:2px solid #1a1a1a;border-radius:14px;padding:6px 20px;margin:18px 0}
+hr{border:none;border-top:1px solid #d9d0c0;margin:36px 0}
+footer{margin-top:40px;font-size:14px;color:#6f665a;border-top:1px solid #d9d0c0;padding-top:14px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
